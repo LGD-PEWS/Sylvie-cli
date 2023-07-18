@@ -1,4 +1,8 @@
 {
-  "platform": "github",
-  "org": "Sylvie688"
+  "platform": "gitlab",
+  "org": "Sylvie688",
+  "token": "glpat-16ryeyWhdezX1qcy5x_d",
+  "https": "gitlab.com/LGD-PEWS/tokentest.git",
+  "projectID": "47776363",
+  "branches": "main"
 }
